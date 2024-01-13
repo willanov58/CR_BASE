@@ -14,4 +14,3 @@ string[] arr1 = {"Hello", "2", "world", ":-)"};
         
         int max_lenght = 3;
     
-       
